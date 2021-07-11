@@ -1,7 +1,7 @@
 # PIG_AWS
 Apache Pig for processing n-gram data
 
-Apache Pig script for processing n-gram data on Amazon Web Services (AWS). Enter cutom bucket folder in the script.
+Apache Pig script for processing n-gram data on Amazon Web Services (AWS). Enter custom bucket folder in the script.
 
 Datasets: Dataset with over 130 million customer reviews from Amazon Customer Reviews downloadable from https://registry.opendata.aws/amazon-reviews/. 
 
